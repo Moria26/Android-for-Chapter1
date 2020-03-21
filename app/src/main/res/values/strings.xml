@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">week1</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="pirates">使用正常</string>
+    <string name="ninjas">使用故障</string>
+</resources>
